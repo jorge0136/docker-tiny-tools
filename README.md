@@ -6,7 +6,7 @@ Useful linux tools loaded in a [container optimized ubuntu base image]( https://
 * `cd docker-tiny-tools`
 
 ## Build it
-* `docker build -t <desired_repo_name>:<version_tag> .`
+* `docker build -t <desired_repo_name>:<version_tag> <dockerfile_location>`
 * Example: `docker build -t docker-tiny-tools:test .`
 
 ## Run it
