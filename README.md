@@ -1,5 +1,5 @@
-# docker-tiny-tools
-Useful linux tools loaded in a [container optimized ubuntu base image]( https://github.com/phusion/baseimage-docker).
+# Docker Tiny Tools
+Useful linux toolbelt loaded in a [container optimized ubuntu base image]( https://github.com/phusion/baseimage-docker).
 
 ## Get it
 * `git clone https://github.com/jorge0136/docker-tiny-tools.git`
