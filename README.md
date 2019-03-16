@@ -1,6 +1,9 @@
 # docker-tiny-tools
 Useful linux tools loaded in a container safe ubuntu base image. 
 
+## Get it
+* `git clone https://github.com/jorge0136/docker-tiny-tools.git`
+* `cd docker-tiny-tools`
 
 ## Build it
 * `docker build -t <desired_repo_name>:<version_tag>`
