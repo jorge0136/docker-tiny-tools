@@ -9,6 +9,7 @@ RUN apt-get -y install \
   jq \
   man \
   silversearcher-ag \
+  tmux \
   tree \
   watch
 
