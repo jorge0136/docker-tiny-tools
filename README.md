@@ -11,4 +11,4 @@ Useful linux toolbelt loaded in a [container optimized ubuntu base image]( https
 
 ## Run it
 * `docker run -it <build_image_repo_name>:<version_tag> <command>`
-* Example: `docker build -t docker-tiny-tools:test bash`
+* Example: `docker run -it docker-tiny-tools:test bash`
